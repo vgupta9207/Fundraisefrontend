@@ -1,0 +1,21 @@
+body {
+    background-color: #f2f2f3 !important;
+  }
+  nav {
+    background-color: #eb5310;
+    color: white;
+  }
+  .navbar-brand,
+  .navbar-brand:hover {
+    color: white;
+    cursor: pointer;
+  }
+  .nav-link {
+    color: white !important;
+    cursor: pointer;
+  }
+  
+  .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  
