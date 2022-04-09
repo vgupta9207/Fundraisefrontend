@@ -11,7 +11,6 @@ import AllFundraises from './AllFundraises';
 import React from 'react';
 
 
-axios.defaults.baseURL = "http://localhost:8081";
 
 //initialState is the default state of the app
 const initialState = { currentUser: '', refetch: false, active: { title: '', param: '' } };
